@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome Quynh Nguyen to our slide deck!"
 ---
 
 Caption here
