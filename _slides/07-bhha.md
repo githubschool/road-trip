@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Bao was here. 
 
-![Mardigrastocat](https://octodex.github.com/images/Mardigrastocat.png)
+![Doraemon](https://www.freepngimg.com/download/artwork/80621-area-nobi-doraemon-dorayaki-line-nobita.png)
 {: .center}
