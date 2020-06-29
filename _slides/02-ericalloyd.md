@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Howdy from Austin, TX!
 
 ![inflatocat](https://octodex.github.com/images/inflatocat.png)
 {: .center}
